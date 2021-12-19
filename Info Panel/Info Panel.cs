@@ -5,7 +5,7 @@
 ///                                                                                  ///
 ///         Publish DATE  17-DEC-2021                                                ///
 ///         Versian  1.0.0                                                           ///
-///         Auther  Seyed Jafar Yaghoubi                                             ///
+///         Author  Seyed Jafar Yaghoubi                                             ///
 ///         Email  algo3xp3rt@gmail.com                                              ///
 ///         License  MIT                                                             ///
 ///                                                                                  ///
