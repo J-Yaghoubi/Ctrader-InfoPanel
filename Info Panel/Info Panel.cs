@@ -1,16 +1,16 @@
-﻿
+
 ////////////////////////////////////////////////////////////////////////////////////////
 ///                                     Info Panel                                   ///
 ///     (Have ADR, ATR, Spread, Unrealized Net P/L and symbol-info in your Chart)    ///
 ///                                                                                  ///
 ///         Publish DATE  17-DEC-2021                                                ///
-///         Versian  1.0.0                                                           ///
-///         Author  Seyed Jafar Yaghoubi                                             ///
-///         Email  algo3xp3rt@gmail.com                                              ///
+///         Version  1.0.0                                                           ///
+///         By  Seyed Jafar Yaghoubi                                                 ///
 ///         License  MIT                                                             ///
+///         More info https://github.com/J-Yaghoubi/                                 ///
+///         Contact  algo3xp3rt@gmail.com                                            ///
 ///                                                                                  ///
 ////////////////////////////////////////////////////////////////////////////////////////
-
 
 
 using cAlgo.API;
